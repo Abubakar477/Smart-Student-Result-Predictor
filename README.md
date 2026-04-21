@@ -98,11 +98,3 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 
 ## 📫 Contact
 **Abubakar** - *Project Maintainer*
-*   **LinkedIn**: [Your Profile Name](https://linkedin.com/in/)
-*   **Portfolio**: [Your Portfolio URL](https://github.com/Abubakar477)
-*   **GitHub**: [@Abubakar477](https://github.com/Abubakar477)
-
----
-<p align="center">
-  <i>Developed with ❤️ using Power of .NET & ML</i>
-</p>
